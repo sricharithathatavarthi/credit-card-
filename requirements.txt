@@ -1,6 +1,9 @@
-streamlit
+streamlit>=1.0.0
 scikit-learn
 xgboost
 pandas
 imbalanced-learn
 matplotlib
+numpy
+joblib
+pytest
